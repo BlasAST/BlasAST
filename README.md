@@ -1,6 +1,6 @@
 ¡Hola😁! Soy Blas.
 
-Actualmente estoy estudiando en UDIT (Universidad de Diseño, Innovación y Tecnología) de Madrid tras haber
+Actualmente estoy estudiando en UDIT (Universidad de Diseño, Innovación y Tecnología) de Madrid por las mañanas tras haber
 cursado el grado superior de Desarrollo de Aplicaciones Web por lo que estoy especializado sobre todo en
 Front-end👌.
 
